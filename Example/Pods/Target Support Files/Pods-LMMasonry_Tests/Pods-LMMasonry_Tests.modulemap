@@ -1,0 +1,6 @@
+framework module Pods_LMMasonry_Tests {
+  umbrella header "Pods-LMMasonry_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

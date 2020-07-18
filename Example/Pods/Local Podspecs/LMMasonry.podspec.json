@@ -1,0 +1,22 @@
+{
+  "name": "LMMasonry",
+  "version": "0.1.0",
+  "summary": "A short description of LMMasonry.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/corkiios/LMMasonry",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "corkiios": "zhigang.wanng@yuwantech.com"
+  },
+  "source": {
+    "git": "https://github.com/corkiios/LMMasonry.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LMMasonry/Classes/**/*"
+}

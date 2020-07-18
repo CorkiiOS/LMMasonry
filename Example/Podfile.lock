@@ -1,0 +1,16 @@
+PODS:
+  - LMMasonry (0.1.0)
+
+DEPENDENCIES:
+  - LMMasonry (from `../`)
+
+EXTERNAL SOURCES:
+  LMMasonry:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LMMasonry: dea16b8af638d6cbb13d7b410a2340701fa96a73
+
+PODFILE CHECKSUM: 9709be9f3274206173ab0a888e9c827d8bde6bb8
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module LMMasonry {
+  umbrella header "LMMasonry-umbrella.h"
+
+  export *
+  module * { export * }
+}
