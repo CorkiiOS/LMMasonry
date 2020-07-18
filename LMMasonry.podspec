@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'corkiios' => 'zg.wang' }
-  s.source           = { :git => 'https://github.com/corkiios/LMMasonry.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/CorkiiOS/LMMasonry.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
